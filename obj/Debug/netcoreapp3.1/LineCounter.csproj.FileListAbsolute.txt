@@ -1,0 +1,13 @@
+E:\Repos\Projects\LineCounter\bin\Debug\netcoreapp3.1\LineCounter.exe
+E:\Repos\Projects\LineCounter\bin\Debug\netcoreapp3.1\LineCounter.deps.json
+E:\Repos\Projects\LineCounter\bin\Debug\netcoreapp3.1\LineCounter.runtimeconfig.json
+E:\Repos\Projects\LineCounter\bin\Debug\netcoreapp3.1\LineCounter.runtimeconfig.dev.json
+E:\Repos\Projects\LineCounter\bin\Debug\netcoreapp3.1\LineCounter.dll
+E:\Repos\Projects\LineCounter\bin\Debug\netcoreapp3.1\LineCounter.pdb
+E:\Repos\Projects\LineCounter\obj\Debug\netcoreapp3.1\LineCounter.csprojAssemblyReference.cache
+E:\Repos\Projects\LineCounter\obj\Debug\netcoreapp3.1\LineCounter.AssemblyInfoInputs.cache
+E:\Repos\Projects\LineCounter\obj\Debug\netcoreapp3.1\LineCounter.AssemblyInfo.cs
+E:\Repos\Projects\LineCounter\obj\Debug\netcoreapp3.1\LineCounter.csproj.CoreCompileInputs.cache
+E:\Repos\Projects\LineCounter\obj\Debug\netcoreapp3.1\LineCounter.dll
+E:\Repos\Projects\LineCounter\obj\Debug\netcoreapp3.1\LineCounter.pdb
+E:\Repos\Projects\LineCounter\obj\Debug\netcoreapp3.1\LineCounter.genruntimeconfig.cache
